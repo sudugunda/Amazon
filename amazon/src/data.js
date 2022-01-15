@@ -1,0 +1,42 @@
+export const data = [
+    {
+        id: 1,
+        title: 'The lean startup',
+        price: 29.99,
+        image: 'https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg',
+        rating: 5,
+        name: "The lean startup",
+    },
+    {
+        id: 2,
+        title: 'Samsung 28 L Convection Microwave Oven (CE1041DSB2/TL, Black, SlimFry)',
+        price: 29.99,
+        image: 'https://m.media-amazon.com/images/I/81wx0ua+yCL._SX679_.jpg',
+        rating: 4,
+        name: "Samsung 28 L Convection Microwave Oven (CE1041DSB2/TL, Black, SlimFry)",
+    },
+    {
+        id: 3,
+        title: 'boAt Rockerz 255 Pro Bluetooth Wireless in…',
+        price: 29.99,
+        image: 'https://images-eu.ssl-images-amazon.com/images/I/31PU4kWou+L._AC_SX184_.jpg',
+        rating: 3,
+        name: "boAt Rockerz 255 Pro Bluetooth Wireless in…",
+    },
+    {
+        id: 4,
+        title: 'boAt Airdopes 121v2 Bluetooth Truly Wirele…',
+        price: 29.99,
+        image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q6QY85qlL._AC_SX184_.jpg',
+        rating: 4,
+        name: "boAt Airdopes 121v2 Bluetooth Truly Wirele…",
+    },
+    {
+        id: 5,
+        title: 'Mivi Play Bluetooth Speaker with 12 Hours Playtime. Wireless Speaker Made in India with Exceptional Sound Quality, Portable and Built in Mic-Black',
+        price: 29.99,
+        image: 'https://m.media-amazon.com/images/I/61UJnlIHF9S._AC_UL320_.jpg',
+        rating: 5,
+        name: "Mivi Play Bluetooth Speaker with 12 Hours Playtime. Wireless Speaker Made in India with Exceptional Sound Quality, Portable and Built in Mic-Black",
+    },
+]
